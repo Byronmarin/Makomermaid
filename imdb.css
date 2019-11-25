@@ -10,3 +10,7 @@
     filter: alpha(opacity=50);
     opacity: 0.5;
   }
+.imdbRatingPlugini {
+    background: #2121ac;
+	padding: 7px 10px;
+}
